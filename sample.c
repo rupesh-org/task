@@ -1,5 +1,7 @@
 void main()
 { 
  printf(" Hello World ");
- printf(" good day "):
-}
+ printf(" good day ");
+ printf(" ******** ");
+} 
+
